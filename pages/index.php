@@ -1,4 +1,4 @@
-<!-- Sign In Screen -->
+<!-- Profile Screen -->
 <?php
 // Initialize the session
 error_reporting(E_ALL);

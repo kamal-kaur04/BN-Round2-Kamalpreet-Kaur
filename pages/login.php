@@ -125,6 +125,5 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
  </div>
 
  <!-- Custom Javascript-->
- <!-- <script src="js/dynamic.js" charset="utf-8"></script> -->
  </body>
  </html>
